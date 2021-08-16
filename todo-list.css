@@ -87,4 +87,8 @@ button img{
     pointer-events: none;
 }
 
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+  }
 
